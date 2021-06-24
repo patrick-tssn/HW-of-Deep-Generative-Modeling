@@ -1,0 +1,13 @@
+/.idea/
+/latents/*
+/results/*
+/mine/*
+/log_files/*
+*.sh
+/tmp_res/*
+/ckpts/*
+/data/*
+*.log
+/mapper/*
+/pretrained_models/*
+/res_images/*
