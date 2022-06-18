@@ -1,1 +1,1 @@
-# Trial based on (StyleClip)[https://github.com/orpatashnik/StyleCLIP]
+## A trial based on [StyleCLIP](https://github.com/orpatashnik/StyleCLIP)
